@@ -1,24 +1,8 @@
-# bookstore-frontend
+# Bookstore Frontend
 
-## Project setup
-```
+Un projet Vue.js pour la gestion d'une librairie en ligne.
+
+## Configuration du projet
+
+```bash
 npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
